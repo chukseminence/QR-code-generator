@@ -61,7 +61,7 @@ nav button.active{
 }
 
 ::-webkit-scrollbar{
-    display: none;
+    display: block;
 }
 
 
